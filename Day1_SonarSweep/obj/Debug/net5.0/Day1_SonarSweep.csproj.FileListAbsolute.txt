@@ -1,0 +1,16 @@
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\bin\Debug\net5.0\Day1_SonarSweep.exe
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\bin\Debug\net5.0\Day1_SonarSweep.deps.json
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\bin\Debug\net5.0\Day1_SonarSweep.runtimeconfig.json
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\bin\Debug\net5.0\Day1_SonarSweep.runtimeconfig.dev.json
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\bin\Debug\net5.0\Day1_SonarSweep.dll
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\bin\Debug\net5.0\ref\Day1_SonarSweep.dll
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\bin\Debug\net5.0\Day1_SonarSweep.pdb
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\obj\Debug\net5.0\Day1_SonarSweep.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\obj\Debug\net5.0\Day1_SonarSweep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\obj\Debug\net5.0\Day1_SonarSweep.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\obj\Debug\net5.0\Day1_SonarSweep.AssemblyInfo.cs
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\obj\Debug\net5.0\Day1_SonarSweep.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\obj\Debug\net5.0\Day1_SonarSweep.dll
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\obj\Debug\net5.0\ref\Day1_SonarSweep.dll
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\obj\Debug\net5.0\Day1_SonarSweep.pdb
+C:\Users\maria\source\repos\AdventOfCode2021\Day1_SonarSweep\obj\Debug\net5.0\Day1_SonarSweep.genruntimeconfig.cache
